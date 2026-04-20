@@ -29,8 +29,15 @@ class Board:
             self.__grid[row][col] = value
 
     def print_board(self):
+        width = 5  # width per cell including |
+        total_width = self.__cols * width + 1
+        print('—' * total_width)
         for row in self.__grid:
-            print(row)
+            print('|', end='')
+            for cell in row:
+                print(f'{cell:4}|', end='')
+            print()
+        print('—' * total_width)
 
     def compress_row(self, row):
         new_row = [num for num in row if num != 0]
