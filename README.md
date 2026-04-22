@@ -20,10 +20,6 @@ python main.py
 
 Or with an explicit Python path:
 
-```bash
-C:/Users/georg/AppData/Local/Python/pythoncore-3.14-64/python.exe main.py
-```
-
 ### c. How to Play
 
 | Key | Action |
@@ -54,7 +50,7 @@ The program is built around a clean object-oriented architecture. All major func
 | `EasyMode` / `HardMode` | Concrete subclasses with mode-specific tile generation behaviour |
 | `DifficultyFactory` | Creates the appropriate `Difficulty` object via the Factory Method pattern |
 | `User` | Manages player profiles and best scores |
-| `SaveManager` | Handles reading and writing game state to JSON files |
+| `SaveManager` | Handles reading and writing best score to JSON file |
 | `InputHandler` | Captures real-time keyboard input |
 
 #### OOP Principles Applied
