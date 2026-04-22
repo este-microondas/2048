@@ -18,8 +18,6 @@ From the project root directory, run:
 python main.py
 ```
 
-Or with an explicit Python path:
-
 ### c. How to Play
 
 | Key | Action |
@@ -96,6 +94,7 @@ This project demonstrates the practical application of core OOP principles in Py
 
 The application could be extended in several directions:
 
+- **Advanced Save & Load system** — Allow players to save the current board state and continue later
 - **GUI** — Add a graphical interface using Pygame or Tkinter
 - **Undo** — Implement a move-history stack to support undoing moves
 - **Leaderboard** — Introduce a global or online high-score system
