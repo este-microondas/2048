@@ -1,7 +1,7 @@
 # 2048 Game
 
 <p>
-OOP Coursework Report
+OOP Coursework Report<br>
 Georgij Moisejev EDIf-25/1 OPP Coursework<br>
 VILNIUS TECH, 2026
 </p>
