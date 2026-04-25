@@ -20,7 +20,7 @@ class SaveManager:
         all_users = self.load_all_users()
 
         all_users[user.get_name()] = {
-            "score": user.get_score(),
+            "lastScore": user.get_score(),
             "best_score": user.get_best_score()
         }
 

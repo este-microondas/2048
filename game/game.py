@@ -73,7 +73,7 @@ class Game:
         self.board.add_tile(self.difficulty.get_new_tile_value())
 
 
-##HOLD GAME + checking((win/lose)link to board.py)
+#Game hold and checking((win/lose)link to board.py)
         while True:
             print(f"\nPlayer: {self.user.get_name()}")
             print(f"Score: {self.user.get_score()}")

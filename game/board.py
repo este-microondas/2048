@@ -103,7 +103,7 @@ class Board:
         self.__grid = self.transpose(self.__grid)
         return moved, score
 
-###CHECKING##
+#CHECKING
     def has_empty_cell(self):
         for row in self.__grid:
             if 0 in row:
