@@ -88,7 +88,7 @@ The application is fully functional and satisfies all specified requirements:
 
 ### b. Conclusions
 
-This project demonstrates the practical application of core OOP principles in Python. The modular design, proper use of the Factory Method pattern, and clear separation of concerns produce code that is both maintainable and easy to extend. The implementation reflects a solid understanding of encapsulation, inheritance, polymorphism, abstraction, and composition.
+This project demonstrates the practical application of core OOP principles in Python. The modular design, proper use of the Factory Method pattern, and clear separation of concerns produce code that is both maintainable and easy to extend. The implementation reflects a understanding of encapsulation, inheritance, polymorphism, abstraction, and composition.
 
 ### c. Possible Extensions
 
