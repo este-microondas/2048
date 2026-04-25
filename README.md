@@ -1,9 +1,11 @@
 # 2048 Console Game — OOP Coursework Report
 ---
+
 <p>
 Georgij Moisejev EDIf-25/1 OPP Coursework<br>
 VILNIUS TECH, 2026
 </p>
+
 ---
 
 ## 1. Introduction
